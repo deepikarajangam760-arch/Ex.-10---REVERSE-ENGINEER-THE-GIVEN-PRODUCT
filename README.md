@@ -32,11 +32,15 @@
 
 ## Input:
 
+![Output](glass.png)
+
 ### Output:
 
+![Output](empd-4.png)
 
-### Name:
-### Register Number:
+
+### Name:R.DEEPIKA
+### Register Number:212225230046
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
